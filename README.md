@@ -11,3 +11,9 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
+
+## Task 2: Data Version Control
+
+- Initialized DVC for data versioning.
+- Configured local remote storage at `/path/to/local/storage`.
+- Tracked dataset `data/insurance_data.csv` with DVC.

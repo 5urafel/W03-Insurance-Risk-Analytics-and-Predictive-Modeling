@@ -11,3 +11,14 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
+
+## Task 2: Data Version Control
+
+- Initialized DVC for data versioning.
+- Configured local remote storage at `/Documents/dvc_storage`.
+- Tracked dataset `data/MachineLearningRating_v3.txt` with DVC.
+
+### Dataset Versions
+
+- `MachineLearningRating_v3.txt`: Original dataset.
+- `MachineLearningRating_v3_cleaned.txt`: Cleaned version with missing values removed.

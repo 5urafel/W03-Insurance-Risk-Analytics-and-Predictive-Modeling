@@ -27,3 +27,8 @@ pip install -r requirements.txt
 
 - Objective: Validate hypotheses on risk drivers using statistical tests.
 - In progress: Data segmentation and testing.
+
+## Task 4: Predictive Modeling
+
+- Objective: Build models for claim severity, probability, and premium optimization.
+- In progress: Data preparation and model building.

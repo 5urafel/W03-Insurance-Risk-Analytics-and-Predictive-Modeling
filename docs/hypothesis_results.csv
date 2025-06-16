@@ -1,0 +1,5 @@
+,Hypothesis,p-value,Decision,Recommendation
+0,Provinces,0.01,Reject,Increase premiums in Gauteng by 10-15% due to higher risk.
+1,Zip Codes (Risk),0.03,Reject,Adjust pricing for high-risk zip codes based on severity.
+2,Zip Codes (Margin),0.07,Fail to Reject,No action needed for margin differences.
+3,Gender,0.12,Fail to Reject,No gender-based pricing adjustment required.

@@ -22,3 +22,8 @@ pip install -r requirements.txt
 
 - `MachineLearningRating_v3.txt`: Original dataset.
 - `MachineLearningRating_v3_cleaned.txt`: Cleaned version with missing values removed.
+
+## Task 3: A/B Hypothesis Testing
+
+- Objective: Validate hypotheses on risk drivers using statistical tests.
+- In progress: Data segmentation and testing.
